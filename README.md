@@ -60,7 +60,7 @@ A robust backend API for a blog writing platform similar to Medium. This RESTful
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/blogs-backend.git
+   git clone https://github.com/nish340/blog-backend.git
    cd blogs-backend
    ```
 
